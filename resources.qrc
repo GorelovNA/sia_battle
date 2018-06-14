@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>img/connect_active.png</file>
+        <file>img/connect_pressed.png</file>
+        <file>img/connect_unactive.png</file>
+        <file>img/discon_act.png</file>
+        <file>img/discon_pressed.png</file>
+        <file>img/discon_un.png</file>
+        <file>img/journal_ico.png</file>
+        <file>img/main_icon.png</file>
+        <file>img/Mark.png</file>
+        <file>img/pole2.png</file>
+    </qresource>
+    <qresource prefix="/images/ships">
+        <file>img/ship1.png</file>
+        <file>img/ship2_h.png</file>
+        <file>img/ship2_v.png</file>
+        <file>img/ship3_h.png</file>
+        <file>img/ship3_v.png</file>
+        <file>img/ship4_h.png</file>
+        <file>img/ship4_v.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>my_fonts/11610.ttf</file>
+        <file>my_fonts/11653.otf</file>
+        <file>my_fonts/11662.ttf</file>
+        <file>my_fonts/11665.otf</file>
+        <file>my_fonts/11668.ttf</file>
+        <file>my_fonts/11606.otf</file>
+    </qresource>
+</RCC>
