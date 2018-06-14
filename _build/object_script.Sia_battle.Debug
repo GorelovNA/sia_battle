@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\field.o
+./debug\sia_client.o
+./debug\journal.o
+./debug\enter_ip.o
+./debug\qrc_resources.o
+./debug\moc_mainwindow.o
+./debug\moc_field.o
+./debug\moc_sia_client.o
+./debug\moc_journal.o
+./debug\moc_enter_ip.o
+);

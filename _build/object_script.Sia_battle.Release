@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\field.o
+./release\sia_client.o
+./release\journal.o
+./release\enter_ip.o
+./release\qrc_resources.o
+./release\moc_mainwindow.o
+./release\moc_field.o
+./release\moc_sia_client.o
+./release\moc_journal.o
+./release\moc_enter_ip.o
+);
